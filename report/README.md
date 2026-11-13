@@ -1,8 +1,8 @@
 # 实践项目2：个人实验报告
 
 ## 1. 基本信息
-- GitHub 登录名：Wurrn
-- 个人仓库地址：https://github.com/Wurrn/my-docs
+- GitHub 登录名：Wurnn
+- 个人仓库地址：https://github.com/Wurnn/my-docs
 - 最终网站地址：https://Wurrn.github.io/my-docs/
 
 ## 2. 实践过程与关键截图
