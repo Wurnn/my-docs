@@ -33,8 +33,8 @@
 
 ### 2.7 第二次推送与自动更新验证
 说明：修改了 index.md 并在网页端提交，Actions 自动触发并成功部署，网站内容同步更新。
-- 对应提交链接：（去你的仓库首页，点进那次修改，复制网址贴这里）
-- 对应 Actions 运行链接：（去 Actions 页面，点进第二次成功的记录，复制网址贴这里）
+- 对应提交链接：[点击查看提交记录](https://github.com/Wurnn/my-docs/commit/d71318e17826b882b984ba112548adcaf5474531)
+- 对应 Actions 运行链接：[点击查看 Actions 运行记录](https://github.com/Wurnn/my-docs/actions/runs/42482391721)
 ![自动更新](images/07.png)
 
 ## 3. 问题与解决
